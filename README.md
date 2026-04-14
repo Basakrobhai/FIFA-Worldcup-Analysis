@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup -Complete Historical Analysis
+#  **FIFA World Cup -Complete Historical Analysis**
 
 > **Every tournament · Every match · Every record · 1930 → 2022 · Looking ahead to 2026**
 
@@ -10,7 +10,7 @@ dark-themed chart suite.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 1. [Project Structure](#-project-structure)
 2. [Datasets](#-datasets)
@@ -37,7 +37,7 @@ dark-themed chart suite.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 worldcup-analysis/
@@ -74,7 +74,7 @@ worldcup-analysis/
 
 ---
 
-## 📊 Datasets
+##  Datasets
 
 | File | Rows | Year Range | Key Columns |
 |------|------|------------|-------------|
@@ -89,7 +89,7 @@ worldcup-analysis/
 
 ---
 
-## ⚙️ Setup & Requirements
+##  Setup & Requirements
 
 **Python version:** 3.8 or higher
 
@@ -112,7 +112,7 @@ jupyter>=1.0.0
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone or unzip the project folder.
 2. Install requirements (see above).
